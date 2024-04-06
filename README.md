@@ -27,8 +27,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Program to print the text “Explicit3”.
-Developed by: GANESH S
-Registeration Number : 212222040042
+Developed by: Samuel M
+Registeration Number : 212222040142
 */
 ```
 ## MainActivity.java
